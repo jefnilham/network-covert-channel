@@ -1,3 +1,3 @@
-# SUTD-MM-CSEC-SS
+# sutd-mm-ss
 
 Final project for Systems Security module.
