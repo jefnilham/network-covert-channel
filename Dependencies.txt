@@ -1,0 +1,15 @@
+install xampp on receiver:
+https://vitux.com/ubuntu-xampp/
+
+sudo apt-get install python3-scapy
+sudo apt-get update -y
+sudo apt install python3-pip
+sudo apt install libnfnetlink-dev
+pip3 install NetFilterQueue
+sudo apt install libnetfilter-queue-dev
+sudo apt install git
+git --version
+pip3 install -U git+https://github.com/kti/python-netfilterqueue
+sudo apt-get install python3-ipy
+sudo apt-get install build-essential python-dev libnetfilter-queue-dev
+sudo pip3 install --upgrade -U git+https://github.com/kti/python-netfilterqueue
